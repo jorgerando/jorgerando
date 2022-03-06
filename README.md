@@ -1,2 +1,2 @@
 
-![Comp 1_1_12](https://user-images.githubusercontent.com/69701088/156888428-97329ed3-75d3-4762-9f5b-d8ab04c8157b.gif)
+![NNNN_6](https://user-images.githubusercontent.com/69701088/156947548-ae417acd-938b-4460-89ed-6b338f492536.gif)

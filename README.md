@@ -4,7 +4,9 @@
 
 ![NNNN_6](https://user-images.githubusercontent.com/69701088/156947548-ae417acd-938b-4460-89ed-6b338f492536.gif)
  
- <div>
+![jorgerando's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgerando&count_private=true&theme=radical&show_icons=true)
+
+<div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
@@ -30,5 +32,3 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-![jorgerando's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgerando&count_private=true&theme=radical&show_icons=true)

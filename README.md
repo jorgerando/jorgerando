@@ -30,3 +30,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+![jorgerando's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgerando&count_private=true&theme=radical&show_icons=true)

@@ -2,11 +2,13 @@
 
 # <img src="https://media.giphy.com/media/PVTouuJYtZbkSY3L2n/giphy.gif" width="50px" height="50px"><img src="https://media.giphy.com/media/PVTouuJYtZbkSY3L2n/giphy.gif" width="50px" height="50px"> Hey Everyone , Rando Here  :wave: <img src="https://media.giphy.com/media/PVTouuJYtZbkSY3L2n/giphy.gif"  width="50px" height="50px" ><img src="https://media.giphy.com/media/PVTouuJYtZbkSY3L2n/giphy.gif" width="50px" height="50px">
 
+ 
 ![NNNN_6](https://user-images.githubusercontent.com/69701088/156947548-ae417acd-938b-4460-89ed-6b338f492536.gif)
+ </div>
  
 ![jorgerando's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgerando&count_private=true&theme=radical&show_icons=true)
-
-<div>
+  
+<div align="center" >
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>

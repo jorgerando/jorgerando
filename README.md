@@ -7,6 +7,15 @@
  </div>
  
 ![jorgerando's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgerando&count_private=true&theme=radical&show_icons=true)
+
+## Interesting proyects :
+- Math / algorithm proyects :
+    - General 3x3 rubick cube solver
+    - Osciloscope render engine with fourier series 
+    - 2D and 3D floking algorthim 
+- Robotic proyects :
+    - RobotBall 
+    - European Robocup presentacion 2022  
   
 <div align="center" >
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>

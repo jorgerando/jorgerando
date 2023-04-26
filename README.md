@@ -16,7 +16,11 @@
 - Robotic proyects :
     - [RobotBall](https://github.com/USanz/Mecatronica-Proyecto/wiki) 
     - [European Robocup presentacion 2022](https://github.com/lroa2019/Carry-My-Luggage) 
-- Ia : 
+- Ia / evolution algoritms : 
+    - [Random Creature Evolution](https://github.com/jorgerando/Random-Creature-Evolution.git)
+    - [Smart Rocktes](https://github.com/jorgerando/Smart_Rockets_.git)
+    - [XOR solver from scrach](https://github.com/jorgerando/Neural-Network-from-scratch)
+    - [Perceptron chain learning digits from scrach](https://github.com/jorgerando/Simple-Neuron-Chain-From-Scratch) 
   
 <div align="center" >
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>

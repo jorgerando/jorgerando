@@ -10,12 +10,13 @@
 
 ## Interesting proyects :
 - Math / algorithm proyects :
-    - General 3x3 rubick cube solver
-    - Osciloscope render engine with fourier series 
-    - 2D and 3D floking algorthim 
+    - [General 3x3 rubick cube solver](https://github.com/jorgerando/Resolvedor_CuboRubik) 
+    - [Osciloscope render engine with fourier series](https://github.com/jorgerando/Oscilloscope-Music) 
+    - [2D and 3D floking algorthim](https://github.com/jorgerando/TheFlocking) 
 - Robotic proyects :
-    - RobotBall 
-    - European Robocup presentacion 2022  
+    - [RobotBall](https://github.com/USanz/Mecatronica-Proyecto/wiki) 
+    - [European Robocup presentacion 2022](https://github.com/lroa2019/Carry-My-Luggage) 
+- Ia : 
   
 <div align="center" >
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>

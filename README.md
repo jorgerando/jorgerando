@@ -19,8 +19,8 @@
 - IA / evolution algoritms : 
     - [Random Creature Evolution](https://github.com/jorgerando/Random-Creature-Evolution.git)
     - [Smart Rocktes](https://github.com/jorgerando/Smart_Rockets_.git)
-    - [XOR solver from scrach](https://github.com/jorgerando/Neural-Network-from-scratch)
-    - [Perceptron chain learning digits from scrach](https://github.com/jorgerando/Simple-Neuron-Chain-From-Scratch) 
+    - [Neural Network Library from Scratch](https://github.com/jorgerando/TensorFlow-Play-Ground-Low-Cost)
+    
   
 <div align="center" >
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
